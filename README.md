@@ -71,6 +71,8 @@ _HTML generation_
 ## Tests & Performance
 
 - https://hackage.haskell.org/package/criterion
+
+- https://hackage.haskell.org/package/tasty
 - https://hackage.haskell.org/package/HUnit
 - https://hackage.haskell.org/package/QuickCheck
 
