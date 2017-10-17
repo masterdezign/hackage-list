@@ -1,6 +1,6 @@
-# Hackage list
+# Hackage List
 
-Recent trends
+Trusted libraries
 
 ## General Purpose
 
@@ -33,6 +33,7 @@ Recent trends
 - https://hackage.haskell.org/package/friday
 - https://hackage.haskell.org/package/gloss, https://hackage.haskell.org/package/gloss-accelerate
 - https://hackage.haskell.org/package/hip
+- https://hackage.haskell.org/package/JuicyPixels
 
 ## Simulation
 
