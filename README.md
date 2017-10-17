@@ -10,6 +10,7 @@ Recent trends
 - https://hackage.haskell.org/package/lens
 - https://hackage.haskell.org/package/lens-tutorial
 - https://hackage.haskell.org/package/mwc-random
+- https://hackage.haskell.org/package/repa
 - https://hackage.haskell.org/package/vector
 
 ## Linear Algebra
@@ -46,6 +47,12 @@ Recent trends
 ## Light Server
 
 - https://hackage.haskell.org/package/scotty
+
+## Tests & Performance
+
+- https://hackage.haskell.org/package/criterion
+- https://hackage.haskell.org/package/HUnit
+- https://hackage.haskell.org/package/QuickCheck
 
 ## Books & Misc articles
 
