@@ -45,7 +45,7 @@ A compact list of trusted libraries
 
 ## Light Server
 
-- https://hackage.haskell.org/package/scotty
+- https://hackage.haskell.org/package/scotty, https://hackage.haskell.org/package/blaze-html
 
 ## Tests & Performance
 
