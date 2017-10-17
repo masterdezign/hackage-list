@@ -2,6 +2,7 @@
 
 A compact list of trusted libraries
 
+
 ## General Purpose
 
 - https://hackage.haskell.org/package/accelerate, https://hackage.haskell.org/package/accelerate-examples
@@ -11,15 +12,29 @@ A compact list of trusted libraries
 - https://hackage.haskell.org/package/repa
 - https://hackage.haskell.org/package/vector
 
-## Linear Algebra
+
+## Numerical Methods
+
+_Linear Algebra_
 
 - http://hackage.haskell.org/package/hmatrix
 
-## Statistics
+_Statistics_
 
 - https://hackage.haskell.org/package/statistics
 
-## Machine Learning (specialized)
+_Simulation_
+
+- https://hackage.haskell.org/package/aivika
+
+_Other resources_
+
+- https://github.com/bitemyapp/learnhaskell/blob/master/libraries.md
+- http://haskelldata.com/
+- https://github.com/idontgetoutmuch/NumMethHaskell
+
+
+## Machine Learning
 
 - https://hackage.haskell.org/package/grenade
 - https://hackage.haskell.org/package/hmep
@@ -33,19 +48,25 @@ A compact list of trusted libraries
 - https://hackage.haskell.org/package/hip
 - https://hackage.haskell.org/package/JuicyPixels
 
-## Simulation
-
-- https://hackage.haskell.org/package/aivika
 
 ## FPGA
 
 - http://clash-lang.org/
+
+_Examples_
+
 - https://github.com/adamwalker/clash-utils
 - https://github.com/aufheben/clash-bfcpu
 
-## Light Server
 
-- https://hackage.haskell.org/package/scotty, https://hackage.haskell.org/package/blaze-html
+## Light Web Server
+
+- https://hackage.haskell.org/package/scotty
+
+_HTML generation_
+
+- https://hackage.haskell.org/package/blaze-html
+
 
 ## Tests & Performance
 
@@ -53,14 +74,18 @@ A compact list of trusted libraries
 - https://hackage.haskell.org/package/HUnit
 - https://hackage.haskell.org/package/QuickCheck
 
-## Books & Misc articles
 
-- http://learnyouahaskell.com/, the entry point #1
-- https://haskelliseasy.readthedocs.io/en/latest/, a complementary list
+## Further Reading
+
+_Books_
+
+- http://learnyouahaskell.com/, the entry point
 - http://haskellbook.com/
-- http://haskelldata.com/
+
+_Misc Articles_
+
+- https://haskelliseasy.readthedocs.io/en/latest/, a complementary list
 - https://haskellweekly.news/
-- https://github.com/idontgetoutmuch/NumMethHaskell
 - http://web.archive.org/web/20150226111022/http://www.cis.upenn.edu/~byorgey/pub/monoid-pearl.pdf
 - https://mmhaskell.com/blog/2017/9/4/deeper-still-convolutional-neural-networks
 - https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html
