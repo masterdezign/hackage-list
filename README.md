@@ -2,7 +2,7 @@
 
 Recent trends
 
-## General purpose
+## General Purpose
 
 - https://hackage.haskell.org/package/accelerate
 - https://hackage.haskell.org/package/accelerate-examples
@@ -12,12 +12,23 @@ Recent trends
 - https://hackage.haskell.org/package/mwc-random
 - https://hackage.haskell.org/package/vector
 
+## Linear Algebra
+
+- http://hackage.haskell.org/package/hmatrix
+
 ## Statistics
 
 - https://hackage.haskell.org/package/statistics
 
-## Image processing
+## Machine Learning (specialized)
 
+- https://hackage.haskell.org/package/grenade
+- https://hackage.haskell.org/package/hmep
+- https://hackage.haskell.org/package/tensorflow
+
+## Image Processing & Graphics
+
+- https://hackage.haskell.org/package/diagrams
 - https://hackage.haskell.org/package/friday
 - https://hackage.haskell.org/package/gloss, https://hackage.haskell.org/package/gloss-accelerate
 - https://hackage.haskell.org/package/hip
@@ -26,17 +37,15 @@ Recent trends
 
 - https://hackage.haskell.org/package/aivika
 
-## ML
-
-- https://hackage.haskell.org/package/grenade
-- https://hackage.haskell.org/package/hmep
-- https://hackage.haskell.org/package/tensorflow
-
 ## FPGA
 
 - http://clash-lang.org/
 - https://github.com/adamwalker/clash-utils
 - https://github.com/aufheben/clash-bfcpu
+
+## Light Server
+
+- https://hackage.haskell.org/package/scotty
 
 ## Books & Misc articles
 
