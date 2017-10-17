@@ -6,14 +6,21 @@ Recent trends
 
 - https://hackage.haskell.org/package/accelerate
 - https://hackage.haskell.org/package/accelerate-examples
+- https://hackage.haskell.org/package/containers
 - https://hackage.haskell.org/package/lens
 - https://hackage.haskell.org/package/lens-tutorial
+- https://hackage.haskell.org/package/mwc-random
+- https://hackage.haskell.org/package/vector
+
+## Statistics
+
+- https://hackage.haskell.org/package/statistics
 
 ## Image processing
 
-- https://hackage.haskell.org/package/hip
 - https://hackage.haskell.org/package/friday
 - https://hackage.haskell.org/package/gloss, https://hackage.haskell.org/package/gloss-accelerate
+- https://hackage.haskell.org/package/hip
 
 ## Simulation
 
@@ -22,8 +29,8 @@ Recent trends
 ## ML
 
 - https://hackage.haskell.org/package/grenade
-- https://hackage.haskell.org/package/tensorflow
 - https://hackage.haskell.org/package/hmep
+- https://hackage.haskell.org/package/tensorflow
 
 ## FPGA
 
