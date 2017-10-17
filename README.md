@@ -55,6 +55,9 @@ A compact list of trusted libraries
 
 ## Books & Misc articles
 
+- http://learnyouahaskell.com/, the entry point #1
+- https://haskelliseasy.readthedocs.io/en/latest/, a complementary list
+- http://haskellbook.com/
 - http://haskelldata.com/
 - https://haskellweekly.news/
 - https://github.com/idontgetoutmuch/NumMethHaskell
