@@ -38,6 +38,8 @@ _Other resources_
 
 - https://hackage.haskell.org/package/grenade
 - https://hackage.haskell.org/package/hmep
+- https://hackage.haskell.org/package/Learning
+- https://hackage.haskell.org/package/mltool
 - https://hackage.haskell.org/package/tensorflow
 
 ## Image Processing & Graphics
