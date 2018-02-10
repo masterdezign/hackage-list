@@ -43,7 +43,7 @@ _Other resources_
 - https://hackage.haskell.org/package/mltool
 - https://hackage.haskell.org/package/tensorflow
 
-_Other resources_
+_Communities_
 
 - http://www.datahaskell.org
 
