@@ -43,6 +43,11 @@ _Other resources_
 - https://hackage.haskell.org/package/mltool
 - https://hackage.haskell.org/package/tensorflow
 
+_Other resources_
+
+- http://www.datahaskell.org
+
+
 ## Image Processing & Graphics
 
 - https://hackage.haskell.org/package/diagrams
