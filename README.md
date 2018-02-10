@@ -36,7 +36,7 @@ _Other resources_
 
 ## Machine Learning
 
-- http://hackage.haskell.org/package/backprop
+- https://hackage.haskell.org/package/backprop
 - https://hackage.haskell.org/package/grenade
 - https://hackage.haskell.org/package/hmep
 - https://hackage.haskell.org/package/Learning
