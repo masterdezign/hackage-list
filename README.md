@@ -22,6 +22,7 @@ _Linear Algebra_
 _Statistics_
 
 - https://hackage.haskell.org/package/statistics
+- https://hackage.haskell.org/package/hstatistics
 
 _Simulation_
 
