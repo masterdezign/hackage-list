@@ -14,6 +14,12 @@ A compact list of trusted libraries
 - https://hackage.haskell.org/package/repa
 - https://hackage.haskell.org/package/vector
 
+### Missing base functions
+
+- http://hackage.haskell.org/package/list-extras
+- https://hackage.haskell.org/package/MissingH
+- https://hackage.haskell.org/package/Unique
+
 
 ## Numerical Methods
 
