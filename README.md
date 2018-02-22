@@ -8,6 +8,7 @@ A compact list of trusted libraries
 - https://hackage.haskell.org/package/accelerate, https://hackage.haskell.org/package/accelerate-examples
 - https://hackage.haskell.org/package/containers
 - https://hackage.haskell.org/package/lens, https://hackage.haskell.org/package/lens-tutorial
+- https://hackage.haskell.org/package/massiv - Multi-dimensional Arrays with fusion, stencils and parallel computation.
 - https://hackage.haskell.org/package/MonadRandom
 - https://hackage.haskell.org/package/mwc-random
 - https://hackage.haskell.org/package/probable
