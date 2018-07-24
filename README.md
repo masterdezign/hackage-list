@@ -86,11 +86,12 @@ _HTML generation_
 - https://hackage.haskell.org/package/blaze-html
 
 
-## Tests & Performance
+## Testing & Performance
 
 - https://hackage.haskell.org/package/criterion
 
 - https://hackage.haskell.org/package/tasty
+- https://hackage.haskell.org/package/tasty-golden
 - https://hackage.haskell.org/package/hspec
   - https://hackage.haskell.org/package/HUnit
   - https://hackage.haskell.org/package/QuickCheck
