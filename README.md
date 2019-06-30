@@ -12,7 +12,6 @@ A compact list of trusted libraries
 - https://hackage.haskell.org/package/MonadRandom
 - https://hackage.haskell.org/package/mwc-random
 - https://hackage.haskell.org/package/probable
-- https://hackage.haskell.org/package/repa
 - https://hackage.haskell.org/package/vector
 
 ### Missing base functions
@@ -51,7 +50,7 @@ _Other resources_
 - https://hackage.haskell.org/package/hmep
 - https://hackage.haskell.org/package/Learning
 - https://hackage.haskell.org/package/mltool
-- https://hackage.haskell.org/package/tensorflow
+- https://hackage.haskell.org/package/hasktorch
 
 _Communities_
 
@@ -95,6 +94,7 @@ _HTML generation_
 - https://hackage.haskell.org/package/hspec
   - https://hackage.haskell.org/package/HUnit
   - https://hackage.haskell.org/package/QuickCheck
+- https://hackage.haskell.org/package/hedgehog
 
 
 ## Further Reading
