@@ -12,6 +12,7 @@ A compact list of trusted libraries
 - https://hackage.haskell.org/package/MonadRandom
 - https://hackage.haskell.org/package/mwc-random
 - https://hackage.haskell.org/package/probable
+- https://hackage.haskell.org/package/rio
 - https://hackage.haskell.org/package/vector
 
 ### Missing base functions
@@ -47,10 +48,10 @@ _Other resources_
 
 - https://hackage.haskell.org/package/backprop
 - https://hackage.haskell.org/package/grenade
+- https://hackage.haskell.org/package/hasktorch
 - https://hackage.haskell.org/package/hmep
 - https://hackage.haskell.org/package/Learning
 - https://hackage.haskell.org/package/mltool
-- https://hackage.haskell.org/package/hasktorch
 
 _Communities_
 
@@ -89,12 +90,12 @@ _HTML generation_
 
 - https://hackage.haskell.org/package/criterion
 
-- https://hackage.haskell.org/package/tasty
-- https://hackage.haskell.org/package/tasty-golden
+- https://hackage.haskell.org/package/hedgehog
 - https://hackage.haskell.org/package/hspec
   - https://hackage.haskell.org/package/HUnit
   - https://hackage.haskell.org/package/QuickCheck
-- https://hackage.haskell.org/package/hedgehog
+- https://hackage.haskell.org/package/tasty
+- https://hackage.haskell.org/package/tasty-golden
 
 
 ## Further Reading
