@@ -14,6 +14,7 @@ A compact list of trusted libraries
 - https://hackage.haskell.org/package/mwc-random
 - https://hackage.haskell.org/package/probable
 - https://hackage.haskell.org/package/rio - A standard library for Haskell
+- https://hackage.haskell.org/package/streamly - Beautiful Streaming, Concurrent and Reactive Composition
 - https://hackage.haskell.org/package/vector
 
 ### Missing base functions
