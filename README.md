@@ -12,6 +12,7 @@ A compact list of trusted libraries
 - http://hackage.haskell.org/package/microlens-th
 - https://hackage.haskell.org/package/MonadRandom
 - https://hackage.haskell.org/package/mwc-random
+- https://github.com/tweag/porcupine - Express parametrable, composable and portable data pipelines
 - https://hackage.haskell.org/package/probable
 - https://hackage.haskell.org/package/rio - A standard library for Haskell
 - https://hackage.haskell.org/package/streamly - Beautiful Streaming, Concurrent and Reactive Composition
