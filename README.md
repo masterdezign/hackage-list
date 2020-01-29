@@ -7,6 +7,7 @@ A compact list of trusted libraries
 
 - https://hackage.haskell.org/package/accelerate, https://hackage.haskell.org/package/accelerate-examples
 - https://hackage.haskell.org/package/containers
+- http://hackage.haskell.org/package/haxl - Simplifies access to remote data, such as databases or web-based services
 - https://hackage.haskell.org/package/lens, https://hackage.haskell.org/package/lens-tutorial
 - https://hackage.haskell.org/package/massiv - Multi-dimensional Arrays with fusion, stencils and parallel computation.
 - http://hackage.haskell.org/package/microlens-th
@@ -50,11 +51,12 @@ _Other resources_
 ## Machine Learning
 
 - https://hackage.haskell.org/package/backprop
-- https://hackage.haskell.org/package/grenade
-- https://hackage.haskell.org/package/hasktorch
-- https://hackage.haskell.org/package/hmep
-- https://hackage.haskell.org/package/Learning
+- https://hackage.haskell.org/package/easytensor
+- https://hackage.haskell.org/package/hasktorch - Haskell NNs (work in progress)
+- https://hackage.haskell.org/package/hmep - Multi expression programming
+- https://hackage.haskell.org/package/Learning - Evaluation metrics, PCA, ridge regression
 - https://hackage.haskell.org/package/mltool
+- http://hackage.haskell.org/package/tensor-safe - Export valid deep neural network architectures
 
 _Communities_
 
@@ -106,6 +108,7 @@ _HTML generation_
 _Books_
 
 - http://learnyouahaskell.com/, the entry point
+- https://thinkingwithtypes.com/ <3
 - http://haskellbook.com/
 
 _Misc Articles_
