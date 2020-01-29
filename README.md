@@ -1,6 +1,6 @@
 # Hackage List
 
-A compact list of trusted libraries
+From Hackage, with love
 
 
 ## General Purpose
