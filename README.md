@@ -1,7 +1,28 @@
-# Hackage List
+    From Hackage, with love
 
-From Hackage, with love
 
+
+# Haskell Reading List
+
+_Books_
+
+- http://learnyouahaskell.com/, the entry point
+- https://thinkingwithtypes.com/ <3
+- http://haskellbook.com/
+
+_Misc Articles_
+
+- http://dev.stephendiehl.com/hask - WHAT I WISH I KNEW WHEN LEARNING HASKELL
+- https://haskelliseasy.readthedocs.io/en/latest/, a complementary list
+- https://haskellweekly.news/
+- http://web.archive.org/web/20150226111022/http://www.cis.upenn.edu/~byorgey/pub/monoid-pearl.pdf
+- https://mmhaskell.com/blog/2017/9/4/deeper-still-convolutional-neural-networks
+- https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html
+- https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html
+- https://www.schoolofhaskell.com/user/edwardk/cellular-automata
+- https://syntacticsalt.com/2010/08/30/forest-fire-cellular-automaton-haskell-and-matlab/
+
+# Software
 
 ## General Purpose
 
@@ -103,21 +124,3 @@ _HTML generation_
 - https://hackage.haskell.org/package/tasty-golden
 
 
-## Further Reading
-
-_Books_
-
-- http://learnyouahaskell.com/, the entry point
-- https://thinkingwithtypes.com/ <3
-- http://haskellbook.com/
-
-_Misc Articles_
-
-- https://haskelliseasy.readthedocs.io/en/latest/, a complementary list
-- https://haskellweekly.news/
-- http://web.archive.org/web/20150226111022/http://www.cis.upenn.edu/~byorgey/pub/monoid-pearl.pdf
-- https://mmhaskell.com/blog/2017/9/4/deeper-still-convolutional-neural-networks
-- https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html
-- https://blog.jle.im/entry/practical-dependent-types-in-haskell-2.html
-- https://www.schoolofhaskell.com/user/edwardk/cellular-automata
-- https://syntacticsalt.com/2010/08/30/forest-fire-cellular-automaton-haskell-and-matlab/
