@@ -9,10 +9,11 @@ _Books_
 - http://learnyouahaskell.com/, the entry point
 - https://thinkingwithtypes.com/ <3
 - http://haskellbook.com/
+- https://leanpub.com/optics-by-example/, advanced topics
 
 _Misc Articles_
 
-- http://dev.stephendiehl.com/hask - WHAT I WISH I KNEW WHEN LEARNING HASKELL
+- http://dev.stephendiehl.com/hask, What I wish I knew when learning Haskell
 - https://haskelliseasy.readthedocs.io/en/latest/, a complementary list
 - https://haskellweekly.news/
 - http://web.archive.org/web/20150226111022/http://www.cis.upenn.edu/~byorgey/pub/monoid-pearl.pdf
